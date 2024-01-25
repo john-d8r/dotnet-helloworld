@@ -1,6 +1,6 @@
 # Test App - license detection nuget
 
-- trivy parses \*.nuspec files found inside `$NUGET_PACKAGES` folder or `$HOME/.nuget/packages/` to fetch license information of a given packages
+- trivy parses \*.nuspec files found inside `$NUGET_PACKAGES` folder or `$HOME/.nuget/packages/` to fetch license information for a given package
 
 ## Filesystem
 
